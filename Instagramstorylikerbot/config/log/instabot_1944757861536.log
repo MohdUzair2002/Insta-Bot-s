@@ -1,0 +1,15 @@
+2022-06-11 22:42:43,854 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-06-11 22:42:43,858 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\User\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-06-11 22:42:43,865 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2022-06-11 22:42:44,380 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2022-06-11 22:42:44,978 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2022-06-11 22:42:45,406 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2022-06-11 22:42:45,914 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2022-06-11 22:42:50,444 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2022-06-11 22:42:50,445 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'mohammaduzair361'!
+2022-06-11 22:42:50,447 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2022-06-11 22:42:51,098 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2022-06-11 22:42:51,698 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2022-06-11 22:42:52,583 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: zr/token/result/?device_id=android-6fc07ab4f541d86c&token_hash=&custom_device_id=android-6fc07ab4f541d86c&fetch_reason=token_expired returned response: <Response [200]>
+2022-06-11 22:42:53,482 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2022-06-11 22:42:54,059 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
